@@ -1,4 +1,4 @@
-<p align="centre"> ### ♡ chewi ♡
+<p align="middle"> ### ♡ chewi ♡
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-4/481029686856646657.png" alt="♡ chewi ♡" /> </p>
 
